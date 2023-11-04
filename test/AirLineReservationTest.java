@@ -1,6 +1,4 @@
-package chapter_seven;
-
-import chapter_seven.airlineReservation.AirLineReservation;
+import airlineReservation.AirLineReservation;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
